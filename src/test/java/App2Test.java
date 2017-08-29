@@ -8,7 +8,7 @@ public class App2Test extends Application {
 
     @Test
     public void test1() {
-        Assert.assertTrue(2 > 3);
+        Assert.assertTrue(2 < 3);
     }
 
     @Test
